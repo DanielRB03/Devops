@@ -2,7 +2,7 @@
 ![Devops](imágenes/devops.jpg)
 
 ## Índice
-***[1.-Introducción](md/introducción.md)***
+***[1.- Introducción](md/introducción.md)***
 
 ***[2.- ¿Qué es un administrador de sistemas?](md/2.md)***
 
