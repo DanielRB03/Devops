@@ -1,1 +1,1 @@
-![DEVOPS](/img/devops2.png)
+![DEVOPS](/imágenes/devops2.png)
